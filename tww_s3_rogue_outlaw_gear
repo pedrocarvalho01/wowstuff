@@ -1,23 +1,12 @@
-https://www.wowhead.com/ptr-2/item=238390/soulbreakers-sigil
-  Soulbreaker's Sigil
-  Item Level 600
-  Binds when picked up
-  Unique-Equipped
-  Trinket	
-  +2,508 [Agility or Strength or Intellect]
-  Equip: Your harmful spells and abilities have a chance to fracture the enemy's soul, dealing 140128 Shadow damage over 10 sec. If a fractured enemy dies, you absorb their lingering energy, increasing your Versatility by 1555 for 10 sec.
+https://www.wowhead.com/ptr-2/item=242396/unyielding-netherprism
 
-
-
-https://www.wowhead.com/ptr-2/item=242402/arazs-ritual-forge
-
-  Araz's Ritual Forge
+  Unyielding Netherprism
   Item Level 662
   Binds when picked up
   Unique-Equipped
   Trinket	
-  +1,596 Critical Strike (0.00% @ L80)
-  Use: Recklessly feed a portion of your essence to the forge, granting you 25742 Primary Stat decaying over 30 sec at the cost of 15% of your maximum health. (2 Min Cooldown)
+  Equip: Your harmful abilities draw focused void through the prism to deal 172768 Cosmic damage split between your target and nearby enemies. Damage increased by 30% per enemy struck, up to 150%. This effect may occur every 10 sec and accumulates Latent Power within the prism, up to 15 times. (10s cooldown)
+  Use: Consume all Latent Power to gain 2088 Strength or Agility per stack for 20 sec. (20 Sec Cooldown)
 
 
 
@@ -35,6 +24,41 @@ https://www.wowhead.com/ptr-2/item=242397/sigil-of-the-cosmic-hunt
 
 
 
+https://www.wowhead.com/ptr-2/item=242495/incorporeal-warpclaw
+
+  Incorporeal Warpclaw
+  Item Level 437
+  Binds when picked up
+  Unique-Equipped
+  Trinket	
+  +549 [Agility or Strength]
+  Equip: Your melee attacks have a chance to coalesce a warpstalker echo to strike with you, inflicting 32027 Arcane damage split between enemies in its path.
+
+
+
+https://www.wowhead.com/ptr-2/item=242402/arazs-ritual-forge
+
+  Araz's Ritual Forge
+  Item Level 662
+  Binds when picked up
+  Unique-Equipped
+  Trinket	
+  +1,596 Critical Strike (0.00% @ L80)
+  Use: Recklessly feed a portion of your essence to the forge, granting you 25742 Primary Stat decaying over 30 sec at the cost of 15% of your maximum health. (2 Min Cooldown)
+
+
+
+https://www.wowhead.com/ptr-2/item=238390/soulbreakers-sigil
+  Soulbreaker's Sigil
+  Item Level 600
+  Binds when picked up
+  Unique-Equipped
+  Trinket	
+  +2,508 [Agility or Strength or Intellect]
+  Equip: Your harmful spells and abilities have a chance to fracture the enemy's soul, dealing 140128 Shadow damage over 10 sec. If a fractured enemy dies, you absorb their lingering energy, increasing your Versatility by 1555 for 10 sec.
+
+
+
 https://www.wowhead.com/ptr-2/item=242399/screams-of-a-forgotten-sky
 
   Screams of a Forgotten Sky
@@ -49,18 +73,6 @@ https://www.wowhead.com/ptr-2/item=242399/screams-of-a-forgotten-sky
 
 
 
-https://www.wowhead.com/ptr-2/item=242396/unyielding-netherprism
-
-  Unyielding Netherprism
-  Item Level 662
-  Binds when picked up
-  Unique-Equipped
-  Trinket	
-  Equip: Your harmful abilities draw focused void through the prism to deal 172768 Cosmic damage split between your target and nearby enemies. Damage increased by 30% per enemy struck, up to 150%. This effect may occur every 10 sec and accumulates Latent Power within the prism, up to 15 times. (10s cooldown)
-  Use: Consume all Latent Power to gain 2088 Strength or Agility per stack for 20 sec. (20 Sec Cooldown)
-
-
-
 https://www.wowhead.com/ptr-2/item=232541/improvised-seaforium-pacemaker
 
   Improvised Seaforium Pacemaker
@@ -72,18 +84,6 @@ https://www.wowhead.com/ptr-2/item=232541/improvised-seaforium-pacemaker
   Equip: Repurpose a Seaforium charge to give your heart a kick, causing your first ability every 60 sec to trigger Explosive Adrenaline, granting 2916 Critical Strike for 15 sec.
   
   While exploding, Critical Strikes cause you to blow up again, extending this duration by 1 sec, up to 15 times.
-
-
-
-https://www.wowhead.com/ptr-2/item=242495/incorporeal-warpclaw
-
-  Incorporeal Warpclaw
-  Item Level 437
-  Binds when picked up
-  Unique-Equipped
-  Trinket	
-  +549 [Agility or Strength]
-  Equip: Your melee attacks have a chance to coalesce a warpstalker echo to strike with you, inflicting 32027 Arcane damage split between enemies in its path.
 
 
 
